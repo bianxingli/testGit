@@ -1,0 +1,14 @@
+.header{
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    line-height: 60px;
+    font-size: 25px;
+    color: blue;
+}
+.logo{width:125px;height: 40px;background-image: url("../img/sprite.png");
+    background-position:0px -120px;margin-left: 10px;margin-top: 10px;float: left;}
+.position{font-size: 15px;color: blue}
+table{margin-top: 100px;color: black}
+.addGoodsKind{margin-top: 100px;color: black;display: block}
+.selectKind{margin-left: 100px;color: black}
